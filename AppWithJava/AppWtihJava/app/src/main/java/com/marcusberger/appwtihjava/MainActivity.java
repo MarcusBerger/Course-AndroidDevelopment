@@ -16,8 +16,9 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void submitOrder(View view) {
-        display(100);
-}
+
+        display(77*2+1);
+
     }
 
     private void display(int number) {
